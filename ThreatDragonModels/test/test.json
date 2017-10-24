@@ -4,7 +4,17 @@
     "owner": "ashish"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": []
+    "contributors": [
+      {
+        "name": "ashish"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Test1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
